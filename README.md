@@ -1,0 +1,2 @@
+# GamaJam2022Autumn_video
+ClusterGameJam2022秋のミニゲームのための動画置き場
